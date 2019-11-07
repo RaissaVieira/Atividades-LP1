@@ -1,2 +1,2 @@
 # Atividades-LP1
-Atividades desenvolvidas na disciplina de LP!
+Atividades desenvolvidas na disciplina de LP1.
