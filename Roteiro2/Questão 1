@@ -1,0 +1,7 @@
+Questão 1
+
+a) Objeto é a representação de qualquer coisa, que possui atributos manipulaveis pelo sistema. Já uma classe é um tipo definido pelo usuário que contém o molde, a especificação para os objetos.
+
+b) Um construtor é utilizado para inicializar um objeto, geralmente o uso ocorre no momento de sua declaração.
+
+c) O encapsulamento serve para proteger os dados, evitando que sejam alterados de forma inadequada, podendo ser manipulados de acordor com o interesse do programador.

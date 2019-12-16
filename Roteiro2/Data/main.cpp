@@ -5,7 +5,7 @@ using namespace std;
 
 int main(){
 
-    Data data, data2 = Data(20,2,2013);
+    Data data = Data(), data2 = Data(20,2,2013);
     int dia, mes, ano;
 
     cout << "Digite um dia: ";
@@ -20,7 +20,11 @@ int main(){
 
     data = Data(dia,mes,ano);
 
-    cout << "A data digitada e maior que 20/2/2013: ";
+    cout << data.getDia() << endl;
+    cout << data.getMes() << endl;
+    cout << data.getAno() << endl;
+    
+        cout << "Comparacao da data digitada com 20/2/2013: ";
     if (data.compara(data2, data) == 0)
         cout << "Sao iguais" << endl;
     else if (data.compara(data2, data) == 1)
